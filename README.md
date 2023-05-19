@@ -1,7 +1,7 @@
 # passwordgenerator
 A python script that generates strong passwords
 
-###Requirements
+### Requirements
 -Python3 installed
 
 > python passwordGenerator.py
