@@ -1,4 +1,4 @@
-# passwordgenerator
+# password_generator
 A python script that generates strong passwords by default ten 16-character passwords.
 
 ## Requirements  
